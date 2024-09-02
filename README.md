@@ -10,7 +10,7 @@ Here is a screenshot of the tool in action:
 
 ### Main functions
 
-- **Natural Language Rephrasing:** The texts can be reformulated in a certain way according to given prompts.
+- **Natural Language Rephrasing:** The requirements can be reformulated in a certain way according to given prompts.
 - **Quality Assessment:** Provides a percentage evaluation of the requirement according to the quality criteria.
 
 ## Installation
@@ -44,3 +44,8 @@ Update the API keys in the `"GUI.py"` file as follows:
 1. Open the `"GUI.py"` file where the API keys are configured.
 2. Replace the `"API-KEY"` placeholders with your actual API keys.
 3. Save the changes and restart the application.
+
+
+The “Dataset.reqif” data set provided can be used to test the program. This is a ReqIF file with 100 software requirements. These requirements were extracted from a dataset available on Kaggle. The original dataset was published under the following link:
+
+https://www.kaggle.com/datasets/iamvaibhav100/software-requirements-dataset
