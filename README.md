@@ -10,8 +10,8 @@ Here is a screenshot of the tool in action:
 
 ### Features
 
-- **Natural Language Rephrasing:** Converts requirements into clear, understandable natural language.
-- **Quality Assessment:** Provides a percentage-based evaluation of the clarity and consistency of requirements.
+- **Natural Language Rephrasing:** The texts can be reformulated in a certain way according to given prompts.
+- **Quality Assessment:** Provides a percentage evaluation of the requirement according to the quality criteria.
 
 ## Installation
 
@@ -39,8 +39,8 @@ To use the different LLMs supported by the tool, you need to manually configure 
 - **OpenRouter**: [OpenRouter API Keys](https://openrouter.ai/docs/api-keys)
 - **DeepInfra**: [DeepInfra API Keys](https://deepinfra.com/docs/getting-started)
 
-Update the API keys in the source code file as follows:
+Update the API keys in the `"GUI.py"` file as follows:
 
-1. Open the source code file where the API keys are configured.
+1. Open the `"GUI.py"` file where the API keys are configured.
 2. Replace the `"API-KEY"` placeholders with your actual API keys.
 3. Save the changes and restart the application.
