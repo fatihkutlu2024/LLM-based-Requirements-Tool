@@ -37,7 +37,7 @@ To use the different LLMs supported by the tool, you need to manually configure 
 
 - **OpenAI**: [OpenAI API Keys](https://platform.openai.com/account/api-keys)
 - **OpenRouter**: [OpenRouter API Keys](https://openrouter.ai/docs/api-keys)
-- **DeepInfra**: [DeepInfra API Keys](https://deepinfra.com/docs)
+- **DeepInfra**: [DeepInfra API Keys](https://deepinfra.com/docs/getting-started)
 
 Update the API keys in the source code file as follows:
 
