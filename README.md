@@ -8,7 +8,7 @@ Here is a screenshot of the tool in action:
 
 ![Screenshot](images/tool-screenshot.jpg)
 
-### Features
+### Main functions
 
 - **Natural Language Rephrasing:** The texts can be reformulated in a certain way according to given prompts.
 - **Quality Assessment:** Provides a percentage evaluation of the requirement according to the quality criteria.
