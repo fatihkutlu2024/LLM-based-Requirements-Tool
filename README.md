@@ -36,7 +36,7 @@ pip install -r requirements.txt
 To use the different LLMs supported by the tool, you need to manually configure the API keys in the code. Here are the respective pages where you can obtain your API keys:
 
 - **OpenAI**: [OpenAI API Keys](https://platform.openai.com/account/api-keys)
-- **OpenRouter**: [OpenRouter API Keys](https://openrouter.ai/settings/keys)
+- **OpenRouter**: [OpenRouter API Keys](https://openrouter.ai/docs/api-keys)
 - **DeepInfra**: [DeepInfra API Keys](https://deepinfra.com/docs)
 
 Update the API keys in the source code file as follows:
