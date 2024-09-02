@@ -1,0 +1,2851 @@
+<?xml version="1.0" encoding="ASCII" standalone="no"?><REQ-IF xmlns="http://www.omg.org/spec/ReqIF/20110401/reqif.xsd" xmlns:configuration="http://eclipse.org/rmf/pror/toolextensions/1.0" xmlns:id="http://pror.org/presentation/id" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <THE-HEADER>
+    <REQ-IF-HEADER IDENTIFIER="_Dataset_4ReqifId-Header">
+      <COMMENT>created by pyreqif</COMMENT>
+      <CREATION-TIME>2024-07-14T22:04:17</CREATION-TIME>
+      <REQ-IF-TOOL-ID>pyreqif</REQ-IF-TOOL-ID>
+      <REQ-IF-VERSION>1.0</REQ-IF-VERSION>
+      <SOURCE-TOOL-ID>pyreqif</SOURCE-TOOL-ID>
+      <TITLE>Dataset_4</TITLE>
+    </REQ-IF-HEADER>
+  </THE-HEADER>
+  <CORE-CONTENT>
+    <REQ-IF-CONTENT>
+      <DATATYPES>
+        <DATATYPE-DEFINITION-XHTML IDENTIFIER="_datatype_ID" LAST-CHANGE="2024-07-14T22:04:17" LONG-NAME="xhtml"/>
+      </DATATYPES>
+      <SPEC-TYPES>
+        <SPEC-OBJECT-TYPE IDENTIFIER="_some_requirement_type_id" LAST-CHANGE="2024-07-14T22:04:17" LONG-NAME="requirement Type">
+          <SPEC-ATTRIBUTES>
+            <ATTRIBUTE-DEFINITION-XHTML IDENTIFIER="_reqtype_for_Type" LAST-CHANGE="2024-07-14T22:04:17" LONG-NAME="Type">
+              <TYPE>
+                <DATATYPE-DEFINITION-XHTML-REF>_datatype_ID</DATATYPE-DEFINITION-XHTML-REF>
+              </TYPE>
+            </ATTRIBUTE-DEFINITION-XHTML>
+            <ATTRIBUTE-DEFINITION-XHTML IDENTIFIER="_reqtype_for_Requirement" LAST-CHANGE="2024-07-14T22:04:17" LONG-NAME="Requirement">
+              <TYPE>
+                <DATATYPE-DEFINITION-XHTML-REF>_datatype_ID</DATATYPE-DEFINITION-XHTML-REF>
+              </TYPE>
+            </ATTRIBUTE-DEFINITION-XHTML>
+          </SPEC-ATTRIBUTES>
+        </SPEC-OBJECT-TYPE>
+        <SPECIFICATION-TYPE IDENTIFIER="_doc_type_ref" LAST-CHANGE="2024-07-14T22:04:17" LONG-NAME="doc_type"/>
+      </SPEC-TYPES>
+      <SPEC-OBJECTS>
+        <SPEC-OBJECT IDENTIFIER="_403595bc-421c-11ef-b1e1-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>It is possible to &#226;&#8364;&#339;like&#226;&#8364;&#157; a certain event.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5b0-421c-11ef-a967-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>MN</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div> All changes  updates  and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5b2-421c-11ef-825d-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>F</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The system shall have a MDI form that allows for the viewing of the graph and the data table.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5b4-421c-11ef-a1ce-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>US</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Every registered user will have access to the product s support site via the Internet.  70% of registered users shall find a solution to their problem within 5 minutes of using the support site.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5b6-421c-11ef-91d9-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>PE</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The product shall provide Multi-threading and Load Balancing.The product shall provide multi-threading technology as well as load balancing to overcome data load spikes and traffic.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5b8-421c-11ef-9066-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>SE</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Only valid data shall be entered into the system.  No invalid data shall be entered into the system.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5ba-421c-11ef-84e9-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>NFR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Application portability DESC: The application should be portable with iOS and Android.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5bc-421c-11ef-8c68-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Select Spanish as preferred language Given the administrator wants to select a preferred language When the administrator selects Spanish as a new language Then the web-portal will show all text in Spanish</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5be-421c-11ef-ae68-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>US</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The application shall ask the user to confirm dropping a player or trading a player before performing the action.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5c0-421c-11ef-a80f-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>US</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>All CCR users shall receive training before the WCS system is deployed. One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available)</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5c2-421c-11ef-981e-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>SE</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5c4-421c-11ef-90e8-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>PE</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The search results shall be returned no later 30      seconds  after the user has entered the search criteria</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5c6-421c-11ef-b1da-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>A</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The RFS system should be available 24/7  especially during the budgeting period. The RFS system shall be available 90% of the time all year  and 98% during the budgeting period. 2% of the time  the system will become available within 1 hour of the time that the situation is reported.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5c8-421c-11ef-86fe-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>US</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>90% of untrained realtors shall be able to install the product on their device without printed instructions</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5ca-421c-11ef-8c6c-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>SC</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5cc-421c-11ef-85c5-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The from-location can be selected on the map.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5ce-421c-11ef-a9bd-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Update Page with link to sites nearby</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035c5d0-421c-11ef-8c1f-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>F</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The current repair facility ratings shall be displayed to the user.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ecd9-421c-11ef-ba84-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Editing information Given the restaurant owner is logged in And information exists When the restaurant owner edits information Then the information should be edited</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ecdb-421c-11ef-bb95-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>A</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The product shall adhere to the corporate online availability schedule.  The application is brought down only within 98% of the scheduled outages per the availability schedule.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ecdd-421c-11ef-9d29-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>NFR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The graphical user interface of SplitPay is to be designed with usability as the first priority. The app will be presented and organized in a manner that is both visually appealing and easy for the user to navigate. There will be feedbacks and visual cues such as notifications to inform users of updates and pop-ups to provide users with instructions.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ecdf-421c-11ef-9a6d-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>MN</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The product must be highly configurable for use with various database management systems for the end users.  80% of end users are able to integrate new database management systems with the product without changing the product s software code.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ece1-421c-11ef-a916-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>US</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ece3-421c-11ef-80e6-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>It is possible to &#226;&#8364;&#339;tweet&#226;&#8364;&#157; a certain news item.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ece5-421c-11ef-9df6-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>LF</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The interface shall be appealing to callers and supervisors. In the interface and usability survey  80% of beta testers must report that the interface is appealing.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ece7-421c-11ef-9af4-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>In this case, user can add the items he/she likes to his cart by touching &#226;&#8364;&#339;Add to the cart&#226;&#8364;&#157; button.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ece9-421c-11ef-8cf3-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>F</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The product shall be able to delete room equipment.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035eceb-421c-11ef-aad8-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The language can only be selected in the main app.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035eced-421c-11ef-a3d7-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>F</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div> The Disputes System shall accurately provide a list of possible reason codes for a given transaction.  The list of possible reason codes must be derived based on the type of transaction and the industry that the merchant belongs to  according to the business rules defined for the Disputes System.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ecef-421c-11ef-8c8f-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>PE</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The system shall refresh the display every 60 seconds.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ecf1-421c-11ef-b9ed-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Build Ajax Response to update home page with a link to nearby site based on user location</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ecf3-421c-11ef-90e1-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>NFR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Application testability DESC: Test environments should be built for the application to allow testing of the applications different functions.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ecf5-421c-11ef-b267-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The administrator can add edges of a path which is used in the route planner.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ecf7-421c-11ef-8cb2-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>SC</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The product shall be able to process all transactions.The product shall process minimum of 1 million transactions per year.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ecf9-421c-11ef-9517-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>MN</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ecfb-421c-11ef-bd0e-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>F</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The system shall offer the ability to pause and resume the refresh of data.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ecfd-421c-11ef-b9bd-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>LF</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div> When a shot is marked as a hit  the product shall simulate the sound of a shot hitting its target.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ecff-421c-11ef-a15c-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>O</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>A primary database will be used to store cached data for active users.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ed01-421c-11ef-9c58-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Mobile application - Search by specific dish DESC: A user should be able to select a specific dish in a given list as input. The result is displayed in a map view by default.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ed03-421c-11ef-9091-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>user is able to search items. User can search items according to their price,
+their location, their category.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ed05-421c-11ef-a598-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The user can select a topic from the search result described in requirement UCAR703.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ed07-421c-11ef-bcf0-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>F</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div> System shall automatically update the main page of the website every Friday  and show the 4 latest movies that have been added to the website.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4035ed09-421c-11ef-8801-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>NFR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Users must be a Radford University student in order to access the automatic class schedule and assignment sharing features of this application Users can authenticate by logging in using their RU username and password.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40362152-421c-11ef-9d69-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The main menu contains a launcher to the News-app.3.1.4</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40362154-421c-11ef-ab23-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>F</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The system shall allow modification of the display.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40362156-421c-11ef-8383-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>US</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Users shall be able to reach the  add    drop   and  trade player  pages with one click from the team owner s page.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40362158-421c-11ef-9768-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>PE</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The System shall allow for a minimum of  6 users to work at the same time.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4036215a-421c-11ef-af65-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>NFR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>There are no safety requirements with this application, other than any normal hazards of a mobile device.  The only hazard is a user using the device when they should not be, such as while driving.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4036215c-421c-11ef-b446-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>A search described in requirements UCAR203 results in a displayed set of POI&#226;&#8364;&#8482;s that match the search input.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4036215e-421c-11ef-a8f2-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>NFR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The average time for the server to respond, over the question testing set, will be less than or equal to 2 seconds.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40362160-421c-11ef-a0e6-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>SE</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The product shall ensure that it can only be accessed by authorized users.  The product will be able to distinguish between authorized and unauthorized users in all access attempts</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40362162-421c-11ef-9d83-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The only events that are available in the agenda-app are extracted from the agenda RSS-feeds in the selected language.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40362164-421c-11ef-8ad9-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>O</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>98% of the user workstations shall meet the minimum software requirements prior to implementation</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40362166-421c-11ef-9505-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Mobile application - Search by destination DESC: A user should be able to input a maximum and a minimum distance, according to his/her position. By default the minimum distance is set to 0 km and the maximum to 10 km. The user should be able to input a higher or lower maximum distance and a higher minimum distance than set by default. The result is displayed in a map view by default.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40362168-421c-11ef-a932-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>SC</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The product shall be able to handle up to 1500 simultaneous users. The system shall perform with 1500 users as a time.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4036216a-421c-11ef-aca3-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>F</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div> When both players have positioned their 5 ships on their defensive grids  the product shall define the status of each player for the first turn.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4036216c-421c-11ef-b79c-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>PE</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Staff members shall be able to complete a set of tasks in a timely manner.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_4036216e-421c-11ef-9416-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>NFR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The information and the search methods of the Studenthandbook-app are restricted depending on file format of the handbook-information.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40362170-421c-11ef-9a54-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>This unit will have a list of generic words related specifically to potential queries (examples: building, professor)</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40362172-421c-11ef-a277-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>NFR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>SplitPay will not affect data stored outside of its servers nor will it affect any other applications installed on the user&#226;&#8364;&#8482;s phone. It cannot cause any damage to the phone or its internal components. The only potential safety concern associated with this application applies to virtually all handset apps: SplitPay should not be used while operating a vehicle or in any other situation where the user&#226;&#8364;&#8482;s attention must be focused elsewhere.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40362174-421c-11ef-b1a3-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FT</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>100% of saved user preferences shall be restored when system comes back online.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40362176-421c-11ef-9257-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>F</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The leads washing functionality will use the parameters supplied by corporate and schools to score part of the lead.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364a92-421c-11ef-9249-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>F</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The audit report shall be available to other adjusters at later points in time.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364a94-421c-11ef-a186-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>F</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div> For each shot  the product shall examine the defensive grid of the defensive player to determine whether the shot was a hit or miss.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364a96-421c-11ef-b493-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>It is possible to search for events by subject.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364a98-421c-11ef-bbbd-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>O</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The Disputes application shall interface with the Statement Database. The Statement Database provides the transaction details to the Disputes System. All transaction details must be obtained from the Statement Database</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364a9a-421c-11ef-9fc5-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>A search described in requirements UCAR406 and UCAR407 results in a displayed set of events that match the search input.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364a9c-421c-11ef-aa32-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>In this case, if the user no longer wishes to use the system, he/she can click &#226;&#8364;&#339;Delete Profile&#226;&#8364;&#157; button. After deleting the profile, the user will no longer be able to use the system with the account details that he entered before.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364a9e-421c-11ef-bb80-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>NFR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Security The connection between the Web API and the programs will use HTTPS, for security.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364aa0-421c-11ef-838a-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>F</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The system shall display clear property images in the search results</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364aa2-421c-11ef-9945-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>F</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The user shall select to view the preferred repair facility ratings.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364aa4-421c-11ef-b6c4-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>when user clicks on links to browse sites from home page, the system should respond with a list of links to all the sites by A-Z, sorted on site name</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364aa6-421c-11ef-8e4d-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>F</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The estimator shall search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364aa8-421c-11ef-9b2d-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>LF</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div> The website should appeal to all Africans  not only Nigerians.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364aaa-421c-11ef-a992-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>A</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div> The product shall be available 24 hours per day  seven days per week.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364aac-421c-11ef-bafb-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>F</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The system shall filter data by</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364aae-421c-11ef-8f1c-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The administrator can link a POI to a certain building, floor and room.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364ab0-421c-11ef-8983-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>LF</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The message board shall contain the 5 most recently posted messages on the league page. The messages will contain up to the first 150 characters of the message.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364ab2-421c-11ef-af61-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>PE</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div> Customer shall be able to check the status of their prepaid card  by entering in the PIN number  in under 5 seconds.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_40364ab4-421c-11ef-8a84-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>NFR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Agenda is restricted to what is available in the feeds on the list of agenda RSS-feeds.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671bd-421c-11ef-a8cf-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Based on the selection the product categories will be listed: Outerwear,Soft Shell,Fleece,Knits,Wovens,Active Wear,	Safety,Accessories,Team Wear,	e.c.o. Collection</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671bf-421c-11ef-bbc7-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>user touches log out button, and logs out of the system. The user will not use
+the system until he/she logs in again.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671c1-421c-11ef-8111-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>US</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The system shall be used by realtors with no training.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671c3-421c-11ef-9b85-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>SC</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div> The website shall be capable of supporting 100 000 customers.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671c5-421c-11ef-9e72-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The product will be able to delete conference rooms.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671c7-421c-11ef-a2c6-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>O</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>We must be able to interface with any HTML browser.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671c9-421c-11ef-beff-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The changes will apply if the user clicks on the link in the email.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671cb-421c-11ef-bd10-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The route planned by the navigator is shown in the map view.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671cd-421c-11ef-9d3d-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>SE</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The system shall only be accessed by authorized Corporate Community Grants (CCR) employees. Users must be authenticated using their IBM intranet user name and password.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671cf-421c-11ef-8f84-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>LF</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div> When a shot is marked as a miss  the product shall simulate the sound of a shot missing its target.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671d1-421c-11ef-af31-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The client will send a GET request to the Web API with the question as a URL parameter The client will specify the header Content-Type: application/json in their requests as convention. A valid API query is a single URL parameter containing one sentence that is a question in standard English.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671d3-421c-11ef-92f6-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>O</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The product shall be able to be installed in the specified environment within 1 working day.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671d5-421c-11ef-8625-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>NFR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>Fast Response The average time for the server to respond, over the question testing set, will be less than or equal to 2 seconds</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671d7-421c-11ef-a9e7-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>MN</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The product shall be updated on a regular basis.The product will have a new major feature introduced every six months and quarterly maintenance releases every six months.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671d9-421c-11ef-91b3-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>PE</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671db-421c-11ef-84e4-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>O</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div> The product will be available for licensing as a one-server  two-five servers  or five-or-more servers license.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671dd-421c-11ef-b1e0-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>NFR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>A new user will make less than 3 mistakes in 5 minutes after 5 minutes of use.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403671df-421c-11ef-a6f1-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>This unit will query the database for data about the elements in the mapping</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403698cb-421c-11ef-b2f0-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>LF</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The website shall not be offensive to religious or ethnic groups.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_403698cd-421c-11ef-8425-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_some_requirement_type_id</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+          <VALUES>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Type</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>FR</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+            <ATTRIBUTE-VALUE-XHTML>
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-XHTML-REF>_reqtype_for_Requirement</ATTRIBUTE-DEFINITION-XHTML-REF>
+              </DEFINITION>
+              <THE-VALUE>
+                <xhtml:div>The administrator can modify the list of TU/e related Twitter-sites.</xhtml:div>
+              </THE-VALUE>
+            </ATTRIBUTE-VALUE-XHTML>
+          </VALUES>
+        </SPEC-OBJECT>
+      </SPEC-OBJECTS>
+      <SPEC-RELATIONS/>
+      <SPECIFICATIONS>
+        <SPECIFICATION IDENTIFIER="_Dataset_4ReqifId--spec" LAST-CHANGE="2024-07-14T22:04:17" LONG-NAME="Dataset_4">
+          <TYPE>
+            <SPECIFICATION-TYPE-REF>_doc_type_ref</SPECIFICATION-TYPE-REF>
+          </TYPE>
+          <CHILDREN>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5af-421c-11ef-aa2c-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403595bc-421c-11ef-b1e1-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5b1-421c-11ef-906d-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5b0-421c-11ef-a967-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5b3-421c-11ef-96af-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5b2-421c-11ef-825d-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5b5-421c-11ef-b7a2-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5b4-421c-11ef-a1ce-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5b7-421c-11ef-b660-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5b6-421c-11ef-91d9-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5b9-421c-11ef-9e77-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5b8-421c-11ef-9066-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5bb-421c-11ef-bc99-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5ba-421c-11ef-84e9-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5bd-421c-11ef-ba81-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5bc-421c-11ef-8c68-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5bf-421c-11ef-a647-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5be-421c-11ef-ae68-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5c1-421c-11ef-b144-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5c0-421c-11ef-a80f-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5c3-421c-11ef-b1ec-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5c2-421c-11ef-981e-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5c5-421c-11ef-90f2-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5c4-421c-11ef-90e8-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5c7-421c-11ef-b170-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5c6-421c-11ef-b1da-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5c9-421c-11ef-b4e4-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5c8-421c-11ef-86fe-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5cb-421c-11ef-968d-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5ca-421c-11ef-8c6c-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5cd-421c-11ef-adaa-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5cc-421c-11ef-85c5-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5cf-421c-11ef-80f5-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5ce-421c-11ef-a9bd-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035c5d1-421c-11ef-8b73-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035c5d0-421c-11ef-8c1f-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ecda-421c-11ef-b6fd-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ecd9-421c-11ef-ba84-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ecdc-421c-11ef-8ac3-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ecdb-421c-11ef-bb95-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ecde-421c-11ef-90f9-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ecdd-421c-11ef-9d29-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ece0-421c-11ef-baaa-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ecdf-421c-11ef-9a6d-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ece2-421c-11ef-9970-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ece1-421c-11ef-a916-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ece4-421c-11ef-b722-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ece3-421c-11ef-80e6-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ece6-421c-11ef-8108-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ece5-421c-11ef-9df6-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ece8-421c-11ef-a936-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ece7-421c-11ef-9af4-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ecea-421c-11ef-92f1-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ece9-421c-11ef-8cf3-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ecec-421c-11ef-8097-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035eceb-421c-11ef-aad8-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ecee-421c-11ef-9352-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035eced-421c-11ef-a3d7-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ecf0-421c-11ef-a7be-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ecef-421c-11ef-8c8f-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ecf2-421c-11ef-8b3d-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ecf1-421c-11ef-b9ed-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ecf4-421c-11ef-81d1-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ecf3-421c-11ef-90e1-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ecf6-421c-11ef-ba9d-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ecf5-421c-11ef-b267-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ecf8-421c-11ef-9013-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ecf7-421c-11ef-8cb2-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ecfa-421c-11ef-9526-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ecf9-421c-11ef-9517-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ecfc-421c-11ef-b8f5-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ecfb-421c-11ef-bd0e-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ecfe-421c-11ef-9208-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ecfd-421c-11ef-b9bd-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ed00-421c-11ef-b0f0-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ecff-421c-11ef-a15c-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ed02-421c-11ef-ad6c-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ed01-421c-11ef-9c58-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ed04-421c-11ef-b514-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ed03-421c-11ef-9091-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ed06-421c-11ef-84c4-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ed05-421c-11ef-a598-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4035ed08-421c-11ef-9968-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ed07-421c-11ef-bcf0-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40362151-421c-11ef-84e3-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4035ed09-421c-11ef-8801-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40362153-421c-11ef-b6cf-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40362152-421c-11ef-9d69-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40362155-421c-11ef-b112-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40362154-421c-11ef-ab23-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40362157-421c-11ef-9861-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40362156-421c-11ef-8383-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40362159-421c-11ef-b06d-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40362158-421c-11ef-9768-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4036215b-421c-11ef-94c9-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4036215a-421c-11ef-af65-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4036215d-421c-11ef-b0f8-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4036215c-421c-11ef-b446-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4036215f-421c-11ef-8b37-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4036215e-421c-11ef-a8f2-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40362161-421c-11ef-b434-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40362160-421c-11ef-a0e6-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40362163-421c-11ef-9096-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40362162-421c-11ef-9d83-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40362165-421c-11ef-8e50-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40362164-421c-11ef-8ad9-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40362167-421c-11ef-bc15-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40362166-421c-11ef-9505-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40362169-421c-11ef-ba76-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40362168-421c-11ef-a932-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4036216b-421c-11ef-b872-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4036216a-421c-11ef-aca3-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4036216d-421c-11ef-9fd6-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4036216c-421c-11ef-b79c-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_4036216f-421c-11ef-9e27-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_4036216e-421c-11ef-9416-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40362171-421c-11ef-b283-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40362170-421c-11ef-9a54-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40362173-421c-11ef-a3d4-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40362172-421c-11ef-a277-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40362175-421c-11ef-bc29-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40362174-421c-11ef-b1a3-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40362177-421c-11ef-b14a-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40362176-421c-11ef-9257-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364a93-421c-11ef-9561-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364a92-421c-11ef-9249-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364a95-421c-11ef-a209-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364a94-421c-11ef-a186-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364a97-421c-11ef-b860-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364a96-421c-11ef-b493-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364a99-421c-11ef-994b-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364a98-421c-11ef-bbbd-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364a9b-421c-11ef-9f90-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364a9a-421c-11ef-9fc5-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364a9d-421c-11ef-a609-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364a9c-421c-11ef-aa32-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364a9f-421c-11ef-af2c-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364a9e-421c-11ef-bb80-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364aa1-421c-11ef-9f65-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364aa0-421c-11ef-838a-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364aa3-421c-11ef-93aa-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364aa2-421c-11ef-9945-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364aa5-421c-11ef-92f2-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364aa4-421c-11ef-b6c4-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364aa7-421c-11ef-847b-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364aa6-421c-11ef-8e4d-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364aa9-421c-11ef-8e94-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364aa8-421c-11ef-9b2d-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364aab-421c-11ef-96a2-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364aaa-421c-11ef-a992-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364aad-421c-11ef-82bc-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364aac-421c-11ef-bafb-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364aaf-421c-11ef-a24e-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364aae-421c-11ef-8f1c-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364ab1-421c-11ef-a211-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364ab0-421c-11ef-8983-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_40364ab3-421c-11ef-b42f-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364ab2-421c-11ef-af61-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671bc-421c-11ef-9c58-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_40364ab4-421c-11ef-8a84-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671be-421c-11ef-af6f-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671bd-421c-11ef-a8cf-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671c0-421c-11ef-a9f8-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671bf-421c-11ef-bbc7-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671c2-421c-11ef-8225-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671c1-421c-11ef-8111-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671c4-421c-11ef-abaa-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671c3-421c-11ef-9b85-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671c6-421c-11ef-8632-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671c5-421c-11ef-9e72-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671c8-421c-11ef-856d-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671c7-421c-11ef-a2c6-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671ca-421c-11ef-a8db-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671c9-421c-11ef-beff-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671cc-421c-11ef-8fab-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671cb-421c-11ef-bd10-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671ce-421c-11ef-b172-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671cd-421c-11ef-9d3d-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671d0-421c-11ef-a867-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671cf-421c-11ef-8f84-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671d2-421c-11ef-ba84-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671d1-421c-11ef-af31-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671d4-421c-11ef-9de3-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671d3-421c-11ef-92f6-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671d6-421c-11ef-be39-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671d5-421c-11ef-8625-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671d8-421c-11ef-8b2f-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671d7-421c-11ef-a9e7-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671da-421c-11ef-b1fe-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671d9-421c-11ef-91b3-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671dc-421c-11ef-8b68-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671db-421c-11ef-84e4-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403671de-421c-11ef-ac17-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671dd-421c-11ef-b1e0-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403698ca-421c-11ef-940c-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403671df-421c-11ef-a6f1-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403698cc-421c-11ef-b87d-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403698cb-421c-11ef-b2f0-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_403698ce-421c-11ef-9f41-9575aa445c8e" LAST-CHANGE="2024-07-14T22:04:17">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_403698cd-421c-11ef-8425-9575aa445c8e</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+          </CHILDREN>
+        </SPECIFICATION>
+      </SPECIFICATIONS>
+      <SPEC-RELATION-GROUPS/>
+    </REQ-IF-CONTENT>
+  </CORE-CONTENT>
+</REQ-IF>
