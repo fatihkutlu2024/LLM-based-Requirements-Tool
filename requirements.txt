@@ -1,0 +1,4 @@
+customtkinter
+openai
+beautifulsoup4
+reqif
