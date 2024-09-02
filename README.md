@@ -28,6 +28,7 @@ Follow these steps to set up the **LLM Based Requirements Tool** on your local m
 git clone https://github.com/fatihkutlu2024/LLM-based-Requirements-Tool.git
 cd LLM-based-Requirements-Tool
 pip install -r requirements.txt
+```
 
 
 ### API Key Configuration
